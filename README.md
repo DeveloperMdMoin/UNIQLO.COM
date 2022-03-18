@@ -40,7 +40,7 @@ https://gifted-noyce-08bf9e.netlify.app/
 
 ## Instructions to Run the Code 
 
-- Clone my repository `https://github.com/Duwesh/Flatheads-Clone.git`
+- Clone our repository `https://github.com/MdMoin788/UNIQLO.COM.git`
 - Open that code in your VS code `index.html`
 - Open the `index.html` on Live server
 - Then you can Navigate through other pages from Landing page like `signin.html`, `cart.html`, `product.html` etc.
